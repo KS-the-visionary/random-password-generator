@@ -5,3 +5,7 @@ Written in Python and flutter(flet)
 
 ### Requirements
 ```pip3 install flet clipboard```
+
+
+### To run
+Run `python3 main.py` in the parent directory
